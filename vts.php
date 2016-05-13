@@ -1,4 +1,15 @@
 <?php 
+/*
+VTS Directory Update Script
+Author: Nazmus Nasir
+URL: http://nazm.us 
+Harvard Business School Information Technology - Learning Management Ecosystem
+
+This script's purpose is to generate the HTML for an internal directory - has no real use outside of this one usecase. 
+
+vts.php - this file contains the code which will generate the base HTML needed for the directory
+*/
+
 //    mysql Database connection info in config.php
     include("config.php");
 
