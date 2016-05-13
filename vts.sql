@@ -1,11 +1,13 @@
--- phpMyAdmin SQL Dump
--- version 4.4.14
--- http://www.phpmyadmin.net
---
--- Host: 127.0.0.1
--- Generation Time: Jan 26, 2016 at 09:18 PM
--- Server version: 5.6.26
--- PHP Version: 5.6.12
+/*
+VTS Directory Update Script
+Author: Nazmus Nasir
+URL: http://nazm.us 
+Harvard Business School Information Technology - Learning Management Ecosystem
+
+This script's purpose is to generate the HTML for an internal directory - has no real use outside of this one usecase. 
+
+vts.sql - MySQL Template for a basic VTS table - it takes modified data from TMT
+*/
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
